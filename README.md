@@ -1,3 +1,3 @@
-Joaquin Ezequiel Zalazar
-Facundo Baduniec
+Joaquin Ezequiel Zalazar,
+Facundo Baduniec,
 Ezequiel Fernandez
